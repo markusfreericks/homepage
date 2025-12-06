@@ -10,7 +10,7 @@ so here is my new attempt at preservation of ancient history.
 
 (this is currently a to-do list. i am writing this in december 2025, since i have a few vacation days. no idea how much energy i can find to finish this)
 
-- a tiny "about me" section [about.html]
+- a tiny ["about me" section](about.html)
 - my annotated list of publications (sorry, nothing new since i did my PhD work. i have written lots of documentation and white papers, but they were all customer-related or otherwise internal)
 - maybe a bit about the nML machine description language (strangely enough my only lasting legacy to computer science)
 - some musings about ALDiSP (the language i never really finished the compiler for)
