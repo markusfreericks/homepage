@@ -1,0 +1,108 @@
+<h1>Joyce, Machine Translation, and AI</h1>
+
+Maybe five years ago, I read an old Arno Schmidt essay (originally, a radio
+feature) on the language in Finnegans Wake. Schmidt is a not very
+well-known German author, dead for a quarter century. (And most renowned
+for his epic masterpiece "Zettels Traum" - a book that no-one owns, let
+alone reads, since the only accessible edition is a DIN A3 typoscript
+reproduction monster that costs ~400 DM. His lesser writings (short
+stories, historic novellas, essays and radio features) are often quite funny
+in an ethnographical way, but his idiosyncratic use of orthography and
+punctuation makes him hard to read.)  Schmidt earned his living by
+translating (English -&gt; German), and in that essay he wrote about the
+language used by Joyce in FW, which is an extension of the
+stream-of-consciousness idea already present in the (much more readable)
+Ulysses. Schmidt noted that languages have a semantic level below the
+lexeme level that we take for granted. This lower level (now what was his
+word for it?) consists of the "roots" of words that are powerful enough to
+evoke associations, but not precise enough to have a unique semantics. FW
+is supposed to be written at this level, and the "crossword puzzler &amp;
+punster" nature of the text is a consequence of this. Schmidt demonstrates
+his idea on a few words from one paragraph from FW (Jugurtha).
+
+<p>
+
+When I encountered works on machine translation (Maschinelle Übersetzung),
+I formed the impression that most approaches worked on the basis of
+grammatical sentences and semantic dictionaries, with the "holy grail"
+consisting of a totally descriptive german or English grammar, combined
+with a semantic net that contains the whole Encyclopedia
+Brittanica. Translation is usually depicted as consisting of several
+analysis steps; from the "token" level (phonetic/lexical) up to word &amp;
+phrase recognition, sentence-level grammar, and context analysis ("context"
+being everything beyond a complete sentence). This is a nice, methodical,
+and analytical approach, but it hinges upon the pre-existence of "a
+semantics" that is to be detected. What if there is none? What if there are
+many possible semantices? What if a poem is to be analyzed, or a piece of
+FW? 
+
+<p> 
+
+You might say that machine translation is only advocated for highly
+formalized, technical or juristical writings, but that argument doesn't
+cut:
+Even the most technical texts contain subtilities such as emphasis by
+inverted word order, choice of words to improve connotations, or
+metaphorical use of language: How often have you read that a browser
+"travels" "up" a "tree", starting "at" the "root" nodes? Humans have no
+problems with these metaphors, use them freely, invent and extend them on
+the spot, and mix them without anyone even noticing. A machine translation
+database needs special knowledge about each metaphor (and I tend to think
+that the translation are often only acceptable because the source and
+target language share most of their "metaphor space", so that the 1:1
+translation doesn't do much damage).
+
+<p>
+
+Now my intuition is this: the translation process should be based on the
+<em>acceptance</em> of non-unique semantics, instead of viewing them as a
+problem. "The semantics" of a word, a sentence, a paragraph, or even a
+complete text would then more correspond to a "wave function" (to use a
+trite new-age physical metaphor, but I don't know a better one) instead of
+a "data structure" (semantic net, grammar) as it is now perceived. A very
+technical text would have a "wave function" with a "narrow peak",
+signifying a low tendency of misunderstanding; an ambiguous sentence like
+"jack and john went swimming. he drowned." would have two peaks, signifying
+the two primary interpretations (jack drowned/john drowned), and many
+smaller peaks for the improbable, but still possible, meanings (somebody
+else drowned / "drowned" or "swimming" is used in a different meaning / "he
+drowned" is unmarked direct speech / ...).
+
+<p>
+
+I have, of course, no idea of how to represent such a "probabilistic
+semantics", nor how to build inference or composition rules for them. But
+the basic idea is already present in the Schmidt essay: if there is a
+semantics in each phoneme (if only the meaning: "this phoneme is the start
+of the following lexemes" ;-), composing two phonemes amounts to "adding"
+(or multiplying/cutting) their "semantic fields"; adding new words and
+punctuation will cut down on the possible interpretation space, as will the
+context of the previous paragraphs (which not only gives meaning to
+relational words (he, it) that refer "back", but also weights the
+interpretation of already used words).
+
+<p>
+
+I gather that such a system would go a far step toward true Artificial
+Intelligence.
+
+<p>
+
+<i>I wrote this musing down after encountering a few postings (to
+rec.arts.books) of <a href="https://web.archive.org/web/20230324214225/http://www.mcs.net/~jorn/">Jorn Barger</a>, who
+has both an interest in Joyce and has been working in AI for some time. I
+haven't read his articles in detail, but gather that Jorn seems more to
+think on the lines of situation descriptions and story lines.</i>
+
+<hr>
+
+<i>(24.04.95)</i> After two day's search, I yesterday found the reference
+(I had mis-remembered the anthology in question ;-). The essay is called
+"Das Buch Jedermann" (The Book Everyone), and the terminus coined for the
+meanginful sub-word entity is "etym". To Schmidt, etyms form the
+"language of the (un)consciousness", and a stream-of-consciousness should
+be written as a sequence of etyms.
+
+<hr>
+This page was last changed on Apr 24 1995, 17:31 by <a href="https://web.archive.org/web/20230324214225/http://mfx.dasburo.com/">mfx@pobox.com</a>. Comments and corrections welcome.
+</body>

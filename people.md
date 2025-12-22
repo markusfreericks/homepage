@@ -1,4 +1,6 @@
-## Persons of interest
+## Persons of interest 
+
+### Historic
 
 - [Tom Van Vleck's](https://www.multicians.org/thvv/) [Multics](https://www.multicians.org/) site. Multics was a big operating system project, and indirect name giver for UNIX. The site links to people who worked on Multics, and contains lots of papers, articles, and anecdotes. 
 -- I regularly preach the [Three Questions About Each Bug You Find](https://www.multicians.org/thvv/threeq.html) to young developers.
@@ -20,3 +22,17 @@
 - [Steve Yegge](https://steve-yegge.medium.com/), while at amazon, used to write the (to me) amusing [Stevey's Drunken Blog Rants™](https://sites.google.com/site/steveyegge2/blog-rants).
 
 - [mjd](https://blog.plover.com/) blogs about mathematics, programming, language, history, and other interesting things. I first followed his blog because he was an active perl developer, and for maybe 10 years, i had wrote lots of perl - the first web age was stiched together with cgi-bin scripts, mostly written in perl.
+
+- [Dave Winer's Scripting News](http://scripting.com/) is still a thing!
+
+### Current
+
+- [Casey Muratori](https://caseymuratori.com/) cares about efficiency/performance. he has a gaming engine background.
+-- he participated in a set of vidoes about how to approach the [One Billion Row Challeng](https://github.com/gunnarmorling/1brc) [in java](https://www.youtube.com/watch?v=n-YK3B4_xPA) (see also [Roy van Rijn's presentation](https://www.youtube.com/watch?v=EFXxXFHpS0M&t=2082s))
+
+- [Gunnar Morling](https://www.morling.dev/) [blog](https://www.morling.dev/blog/) initiated 1BRC. maybe next year he will do a new benchmark challenge?
+-- he also started MapStruct and worked on Bean Validation
+
+
+
+   

@@ -21,3 +21,8 @@ Scalzi is so right, and the example he uses (book dedications) is an easy-to-rep
 
 - found the new blog location of Steve Yegge
 -- i will now check that all my colleagues [can count](https://steve-yegge.medium.com/get-that-job-at-grab-eea6de1d8421)
+
+## 2024-12-21
+
+- https://sfstandard.com/2025/12/20/waymo-sf-blackout-robotaxi-traffic-jams/ nicely demonstrates the fragility of our technical infrastructure
+
