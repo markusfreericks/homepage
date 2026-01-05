@@ -26,3 +26,6 @@ Scalzi is so right, and the example he uses (book dedications) is an easy-to-rep
 
 - https://sfstandard.com/2025/12/20/waymo-sf-blackout-robotaxi-traffic-jams/ nicely demonstrates the fragility of our technical infrastructure
 
+## 2025-01-04
+
+- watched the talk by [Robert C. Seacord](http://robertseacord.com/wp/blog/) about [dangerous C compiler optimizations](https://www.youtube.com/watch?v=2KZgFiciOxY). now that's a greybeard!
